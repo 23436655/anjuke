@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4240098",
+      "name": "发现_2",
+      "font_class": "faxian_",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "9843529",
+      "name": "历史记录",
+      "font_class": "lishijilu",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "10570580",
+      "name": "我 的",
+      "font_class": "my_nor",
+      "unicode": "e521",
+      "unicode_decimal": 58657
+    },
+    {
+      "icon_id": "16764507",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "17435647",
+      "name": "书架",
+      "font_class": "shujia",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "19003131",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "19955300",
+      "name": "视   频   题",
+      "font_class": "shipinti",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    }
+  ]
+}
